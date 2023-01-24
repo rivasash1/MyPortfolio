@@ -1,0 +1,89 @@
+body {
+    font-family: 'Aboreto', serif;
+    font-weight: bolder;
+    margin: 0;
+    padding: 0;
+}
+
+header { 
+    background-color:#D7D7D9;
+    color: #133340; 
+    padding: 3em;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav {
+    background-color: #D7D7D9;
+}
+
+nav ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    text-align: center;
+}
+
+nav li {
+   display: inline-block;
+}
+
+nav a {
+    display: block; 
+    color: #133340;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #5BCCD9;
+    color: #F2F2F2;
+    
+}
+
+ul,li {
+    list-style: none;
+}
+
+main {
+    padding: 10em;
+    margin: 0;
+    background-image: url(/Users/ashleyrivas/Desktop/OnlinePortfolio/images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+section {
+    margin-bottom: 3em;
+    text-align: center;
+}
+
+#projects {
+    display: inline;
+}
+
+.qrpic {
+    height: 30rem;
+    width: 50rem;
+    display: inline;
+}
+
+.nftpic {
+    height: 30rem;
+    width: 50rem;
+    display: inline;
+}
+
+footer {
+    background-color:#D7D7D9;
+    color: #133340 ;
+    padding: 3em;
+    text-align: center;
+}

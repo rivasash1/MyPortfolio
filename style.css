@@ -43,7 +43,6 @@ nav a {
 nav a:hover {
     background-color: #5BCCD9;
     color: #F2F2F2;
-    
 }
 
 ul,li {
@@ -86,4 +85,10 @@ footer {
     color: #133340 ;
     padding: 3em;
     text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
 }

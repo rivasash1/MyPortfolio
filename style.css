@@ -70,14 +70,14 @@ section {
 }
 
 .qrpic {
-    height: 30rem;
-    width: 50rem;
+    width: 100%;
+    height: auto;
     display: inline;
 }
 
 .nftpic {
-    height: 30rem;
-    width: 50rem;
+    width: 100%;
+    height: auto;
     display: inline;
 }
 

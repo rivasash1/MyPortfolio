@@ -98,16 +98,6 @@ footer {
     element.style {
         width: 100%;
     }
-     .qrpic {
-        width: 150%;
-        height: auto;
-        display: inline;
-    }
-    
-    .nftpic {
-        width: 150%;
-        height: auto;
-        display: inline;
-    }
+
    
 }

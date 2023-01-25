@@ -95,5 +95,8 @@ footer {
         margin: 0;
         width: 130%;
     }
+    element.style {
+        width: 100%;
+    }
    
 }

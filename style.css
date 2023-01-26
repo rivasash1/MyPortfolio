@@ -87,6 +87,17 @@ footer {
     text-align: center;
 }
 
+/* ----------- Media quries ----------- */
+
+@media only screen and (max-width: 600px){
+body {
+    font-size: 14px;
+    line-height: 3;
+    letter-spacing: 2.5px;
+    width: 130%;
+    margin: 0px;
+}
+} 
 
 
 /* ----------- iPhone 6+, 7+ and 8+ ----------- */
